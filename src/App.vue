@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import index from './index.vue'
-</script>
+</script> 
 
 <template>
   <index />
